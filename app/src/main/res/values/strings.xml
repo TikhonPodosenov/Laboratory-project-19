@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab15_Podosenov_Tikhon</string>
+    <string name="lv">ListView</string>
+    <string name="btn1">ADD</string>
+    <string name="btn2">OK</string>
+    <string name="btn3">CANCEL</string>
+    <string name="et">EditText</string>
+    <string name="tv1"> </string>
+    <string name="tv2"> </string>
+</resources>
